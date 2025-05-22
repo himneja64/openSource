@@ -7,12 +7,12 @@
 ## 🧩사용 기술
 |기술|설명|
 |---|---|
-| :![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB): |효율적인 렌더링 및 상태 관리|
-| :![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white): |중앙 집중식 상태 관리, 구조의 단순화|
-| :![JavaScript](https://img.shields.io/badge/-JavaScript-dc8d2d?style=flat-square&logo=javascript&logoColor=ffffff): |웹 요소의 제어 및 라이브러리 연동|
-| :![Axios](https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=ffffff): |API 요청 처리|
-| :![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white&style=flat-square): |슬라이더 구현|
-| :![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white&style=flat-square): |부드럽고 가벼운 애니메이션 구현|
+|![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)|효율적인 렌더링 및 상태 관리|
+|![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)|중앙 집중식 상태 관리, 구조의 단순화|
+|![JavaScript](https://img.shields.io/badge/-JavaScript-dc8d2d?style=flat-square&logo=javascript&logoColor=ffffff)|웹 요소의 제어 및 라이브러리 연동|
+|![Axios](https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=ffffff)|API 요청 처리|
+|![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white&style=flat-square)|슬라이더 구현|
+|![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white&style=flat-square)|부드럽고 가벼운 애니메이션 구현|
 
 <br/>
 
