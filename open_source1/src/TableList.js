@@ -19,7 +19,7 @@ function TableList(){
 							<th scope="row" className="date h-[46px] font-normal text-[#555] bg-[#eee]">등록일</th>
 						</tr>
 					</thead>
-					<tbody>
+					<tbody className="text-center">
 						{
 							data.map((d, i) =>
 								<TdList key={i+1} category="notice" propsValue={d} />
